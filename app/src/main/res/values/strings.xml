@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">NailExpert</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="email">E-mail</string>
+    <string name="passwordAgain">Jelszó megerősítése</string>
+    <string name="cancel">Mégsem</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="address">Postai cím</string>
+    <string name="seller">Eladó</string>
+    <string name="customer">Vásárló</string>
+    <string name="product_description">Termék leírása</string>
+
+    <string name="title_placeholder">Cím</string>
+    <string name="item_placeholder">Termék neve</string>
+    <string name="item_info_placeholder">Termék leírása</string>
+    <string name="to_cart">Kosárba</string>
+    <string name="delete">Törlés</string>
+    <string name="back">Vissza</string>
+    <string name="emptyCart">A kosarad még üres!</string>
+    <string name="buy">Vásárlás</string>
+
+
+    <string-array name="phone_modes">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+
+    <string-array name="shopping_item_names">
+        <item>Átlátszó Műköröm</item>
+        <item>Strasszkövek</item>
+        <item>Reszelő</item>
+        <item>UV/LED Műkörmös lámpa</item>
+        <item>Átlátszó</item>
+        <item>Csiszológép</item>
+        <item>"BabyBlue" géllakk</item>
+        <item>"BabyPink" géllakk</item>
+        <item>Base 2in1 géllakk</item>
+        <item>Ecsetkészlet</item>
+        <item>Pontozó ecset</item>
+        <item>"MistyForest" géllakk</item>
+        <item>Glitter</item>
+        <item>Glitter szett</item>
+        <item>"Gray" géllakk</item>
+        <item>Glitter</item>
+        <item>Lézer csillámpor</item>
+        <item>Manikűr szett</item>
+        <item>Neon pingmentpor</item>
+        <item>"LevanderHaze" géllak</item>
+        <item>"Rose" géllakk</item>
+        <item>"SageGreen" géllakk</item>
+        <item>Glitter</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Műköröm tipek siletto 50 db</item>
+        <item>Kristály strasszok</item>
+        <item>100/180</item>
+        <item>UV LED lámpa</item>
+        <item>Builder gel</item>
+        <item>Professzionális műköröm csiszológép</item>
+        <item>UV gél</item>
+        <item>UV gél</item>
+        <item>Alap és fedőlakk</item>
+        <item>10 db</item>
+        <item>1 db random színben</item>
+        <item>UV gél</item>
+        <item>1 db random színben</item>
+        <item>6 szín</item>
+        <item>UV gél</item>
+        <item>Sötétzöld</item>
+        <item>Holo</item>
+        <item>3 db-os manikűr szett</item>
+        <item>Pink</item>
+        <item>UV gél</item>
+        <item>UV gél</item>
+        <item>UV gél</item>
+        <item>White</item>
+    </string-array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/tips</item>
+        <item>@drawable/rhinestines</item>
+        <item>@drawable/nailfiles</item>
+        <item>@drawable/uvled</item>
+        <item>@drawable/buldergel</item>
+        <item>@drawable/nailpolisher</item>
+        <item>@drawable/babyblue</item>
+        <item>@drawable/babypink</item>
+        <item>@drawable/basetopcoat</item>
+        <item>@drawable/brushset</item>
+        <item>@drawable/dottingbrush</item>
+        <item>@drawable/forestgreen</item>
+        <item>@drawable/glittermix</item>
+        <item>@drawable/glitterset</item>
+        <item>@drawable/graypolish</item>
+        <item>@drawable/greenglitter</item>
+        <item>@drawable/hololaser</item>
+        <item>@drawable/manicureset</item>
+        <item>@drawable/pinkpigment</item>
+        <item>@drawable/purple</item>
+        <item>@drawable/rosepink</item>
+        <item>@drawable/sagegreen</item>
+        <item>@drawable/whiteglitter</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>100 Dv</item>
+        <item>150 Dv</item>
+        <item>500 Dv</item>
+        <item>300 Dv</item>
+        <item>180 Dv</item>
+        <item>70 Dv</item>
+        <item>20 Dv</item>
+        <item>100 Dv</item>
+        <item>150 Dv</item>
+        <item>500 Dv</item>
+        <item>300 Dv</item>
+        <item>180 Dv</item>
+        <item>70 Dv</item>
+        <item>20 Dv</item>
+        <item>100 Dv</item>
+        <item>150 Dv</item>
+        <item>500 Dv</item>
+        <item>300 Dv</item>
+        <item>180 Dv</item>
+        <item>70 Dv</item>
+        <item>20 Dv</item>
+        <item>180 Dv</item>
+        <item>70 Dv</item>
+    </array>
+</resources>

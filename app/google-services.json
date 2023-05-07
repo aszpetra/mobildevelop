@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "63504637747",
+    "project_id": "mobilalk-app",
+    "storage_bucket": "mobilalk-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63504637747:android:5c0bf6fb474e476d322846",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63504637747-htkl8os4a9939tcuf2n1djgvvoc0ptv5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "db88ff4236c87b57c7761aa1b0a884c52eb30b7b"
+          }
+        },
+        {
+          "client_id": "63504637747-d4pm8qve6d17djc04bo5dv5p8i78a4hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApKzcjY4U5FRRtCuD_sg1_CrZjPNWED8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63504637747-d4pm8qve6d17djc04bo5dv5p8i78a4hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
